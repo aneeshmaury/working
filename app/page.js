@@ -20,7 +20,7 @@ export default function Home() {
       
       <div className="midl">
         <div>
-          <p className="bg-green-400 rounded-md relative left-28 mr-4 mt-6 text-sm" style={{ width: '250px', wordWrap: 'break-word', padding:"9px" }}>
+          <p className="bg-green-200 rounded-md relative left-28 mr-4 mt-6 text-sm" style={{ width: '250px', wordWrap: 'break-word', padding:"9px" }}>
             {inputValue}
           </p>
         </div>
