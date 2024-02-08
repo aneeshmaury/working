@@ -32,7 +32,7 @@ export default function Home() {
           </div>
         </div>
         
-        <input className="mt-11 border-2 border-black"
+        <input className="mt-14 border-2 border-black"
           type="text"
           value={inputValue}  
           onChange={handleInputChange} 
