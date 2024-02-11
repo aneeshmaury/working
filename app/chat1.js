@@ -22,10 +22,7 @@ const Chatmain = () => {
       </div>
       <div className="mb-4">
         <div className="bg-blue-100 w-[270px] p-3 pr-5 rounded-lg inline-block">
-          <p className="text-[15px]"> I understand how upsetting it's to loose your money.
-
-We have raised a ticket for your issue.
-We are working on resolving your issue and once correct and complete details are received we do action on it.</p>
+          <p className="text-[15px]">I understand how upsetting it s to loose your money.We have raised a ticket for your issue.We are working on resolving your issue and once correct and complete details are received we do action on it.</p>
         </div>
       </div>
       {/* More messages can be added here */}
