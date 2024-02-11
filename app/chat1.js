@@ -11,17 +11,17 @@ const Chatmain = () => {
   return (
     <div className="max-w-md mx-auto my-8 p-4 rounded-lg">
       <div className="mb-4">
-        <div className="bg-slate-100 w-[270px] p-2 pr-4 rounded-lg inline-block">
+        <div className="bg-slate-100 w-[270px] p-2 pr-4 rounded-tr-lg rounded-bl-lg rounded-br-lg inline-block">
           <p className="text-[14px]"> Please elaborate your issue for faster resolution</p>
         </div>
       </div>
       <div className="mb-4 text-right">
-        <div className="bg-slate-50 p-3 rounded-lg inline-block">
+        <div className="bg-blue-100 p-3 rounded-tl-lg rounded-bl-lg rounded-br-lg inline-block">
           <p className="text-[14px] text-left"style={{ width: '250px', wordWrap: 'break-word', padding:"1px" }} >{inputValue} </p>
         </div>
       </div>
       <div className="mb-4">
-        <div className="bg-slate-100 w-[270px] p-3 pr-5 rounded-lg inline-block">
+        <div className="bg-slate-100 w-[270px] p-3 pr-5 rounded-tr-lg rounded-bl-lg rounded-br-lg inline-block">
           <p className="text-[14px]">I understand how upsetting it is to loose your money.We have raised a ticket for your issue.We are working on resolving your issue and once correct and complete details are received we do action on it.</p>
         </div>
       </div>
