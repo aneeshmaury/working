@@ -30,7 +30,7 @@ We are working on resolving your issue and once correct and complete details are
       </div>
       {/* More messages can be added here */}
     
-      <input className="mt-14 border-2 border-black"
+      <input className="mt-16 border-2 border-black"
           type="text"
           value={inputValue}  
           onChange={handleInputChange} 
