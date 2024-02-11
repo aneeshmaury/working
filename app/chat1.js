@@ -17,7 +17,7 @@ const Chatmain = () => {
       </div>
       <div className="mb-4 text-right">
         <div className="bg-blue-50 p-3 rounded-lg inline-block">
-          <p className="text-[17px] text-left"style={{ width: '250px', wordWrap: 'break-word', padding:"9px" }} >{inputValue} </p>
+          <p className="text-[17px] text-left"style={{ width: '250px', wordWrap: 'break-word', padding:"1px" }} >{inputValue} </p>
         </div>
       </div>
       <div className="mb-4">
