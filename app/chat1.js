@@ -11,6 +11,7 @@ const Chatmain = () => {
   return (
     <div className="max-w-md mx-auto my-8 p-4 rounded-lg">
       <div className="mb-4">
+      <p className="text-slate-400 text-[14px]">Bank Assistant <span className="text-[12px] ml-2">a few seconds ago</span></p>
         <div className="bg-[#e6ebeb] w-[270px] p-2 pr-4 rounded-tr-lg rounded-bl-lg rounded-br-lg inline-block">
           <p className="text-[14px]"> Please elaborate your issue for faster resolution</p>
         </div>
