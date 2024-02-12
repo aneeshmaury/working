@@ -18,7 +18,7 @@ const Chatmain = () => {
         <p className="text-slate-400 text-[13px]">Bank Assistant <span className="text-[11px] ml-2">a few seconds ago</span></p>
       </div>
       <div className="mb-4 text-right">
-        <div className="bg-sky-200 bg-opacity-80  p-3 rounded-tl-lg rounded-bl-lg rounded-br-lg inline-block">
+        <div className="bg-sky-200 bg-opacity-90  p-3 rounded-tl-lg rounded-bl-lg rounded-br-lg inline-block">
           <p className="text-[14px] text-left"style={{ width: '250px', wordWrap: 'break-word', padding:"1px" }} >{inputValue} </p>
         </div>
       <p className="text-slate-400 text-[9px]">Delivered a few seconds ago</p>
